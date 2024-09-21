@@ -10,10 +10,9 @@ jupyter:
   nbformat_minor: 0
 ---
 
-::: {.output .display_data}
+
 ![](diagram-export-9-21-2024-7_54_53-PM.png)
-:::
-:::
+
 
 ::: {.cell .code execution_count="1" colab="{\"base_uri\":\"https://localhost:8080/\",\"height\":446}" id="4Hp0mcfZ7jw8" outputId="0c2577b4-eb5f-4324-8345-b509af14838b"}
 ``` python
