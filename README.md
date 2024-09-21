@@ -136,6 +136,10 @@ plt.tight_layout()
 plt.show()
 ```
 
+### Output 8
+
+![](vertopal_5eef928284d744e38e5f94395c91097b/252a028b9220cf0fc23e1fbd300188183562c59b.png)
+
 ### Cell 9: Plot the distribution of the number of employees
 
 ```python
@@ -148,6 +152,10 @@ plt.ylabel('Frequency')
 plt.tight_layout()
 plt.show()
 ```
+
+### Output 9
+
+![](vertopal_5eef928284d744e38e5f94395c91097b/44c5e4d61d989dd863ebda19cc7eb83b84d25258.png)
 
 ### Cell 10: Time trend of issued licenses
 
@@ -167,3 +175,9 @@ plt.ylabel('Number of Licenses Issued')
 plt.tight_layout()
 plt.show()
 ```
+
+### Output 10
+
+![](vertopal_5eef928284d744e38e5f94395c91097b/1fb77d46a244d4e9a25ff44129381df7bf4427fd.png)
+
+
